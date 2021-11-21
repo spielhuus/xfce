@@ -1,4 +1,4 @@
-FROM spielhuus/x2go:latest
+FROM ghcr.io/spielhuus/x2go:master
 
 ENV DEBIAN_FRONTEND noninteractive
 
